@@ -1,2 +1,2 @@
 # MyCollection
-Implement the simple ArrayList, LinkedList, HashMap according to the JDK8
+Implement the simple ArrayList, LinkedList, HashMap and HashSet according to the JDK8
